@@ -1,6 +1,7 @@
 Kmart Data ( Store Data Analysis ) Sept 2024
 
-Purpose
+Purpose:
+
 The goal of this project is to uncover sales insights that were previously not visible to the sales team, enabling better decision-making. 
 Ultimately, we aim to provide a dashboard that delivers the latest sales insights to support data-driven decision-making.
 
